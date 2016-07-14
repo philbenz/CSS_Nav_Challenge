@@ -28,7 +28,7 @@ section.box {
 .dropdownItems {
     display: none;
     position: absolute;
-    background-color: black;
+    background-color: grey;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px
 }
@@ -40,7 +40,8 @@ section.box {
     display: block;
 }
 
-.dropdownItems a:hover { {background-color: #black;
+.dropdownItems a:hover {
+   background-color: #black;
 }
 .dropdown:hover .dropdownItems {
     display: block;
